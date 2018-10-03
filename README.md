@@ -4,13 +4,13 @@
 [![Version][npm-image]][npm-url] [![Travis CI][travis-image]][travis-url] [![Quality][codeclimate-image]][codeclimate-url] [![Coverage][codeclimate-coverage-image]][codeclimate-coverage-url] [![Dependencies][gemnasium-image]][gemnasium-url] [![Gitter][gitter-image]][gitter-url]
 
 
-## [Introduction](https://tomchentw.github.io/react-google-maps/#introduction)
+## [Introduction](https://cliffxuan.github.io/react-google-maps/#introduction)
 
 
-## [Installation](https://tomchentw.github.io/react-google-maps/#installation)
+## [Installation](https://cliffxuan.github.io/react-google-maps/#installation)
 
 
-## [Usage & Configuration](https://tomchentw.github.io/react-google-maps/#usage--configuration)
+## [Usage & Configuration](https://cliffxuan.github.io/react-google-maps/#usage--configuration)
 
 
 ## [Changelog][changelog-url]
@@ -27,7 +27,7 @@ The changelog is automatically generated via [standard-version][standard-version
 
 **Before doing this, did you**:
 
-1. Read the [documentation](https://tomchentw.github.io/react-google-maps)
+1. Read the [documentation](https://cliffxuan.github.io/react-google-maps)
 2. Read the [source code](https://github.com/tomchentw/react-google-maps)
 
 
@@ -71,8 +71,8 @@ Please, be noted, **no one**, I mean, **no one**, is obligated to help you in **
 [gitter-url]: https://gitter.im/tomchentw/react-google-maps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 [changelog-url]: https://github.com/tomchentw/react-google-maps/blob/master/CHANGELOG.md
-[demo-app-url]: https://tomchentw.github.io/#/demos/react-google-maps
-[demo-app-source]: https://github.com/tomchentw/tomchentw.github.io/blob/master/src/Pages/Demos/ReactGoogleMaps.jsx
+[demo-app-url]: https://cliffxuan.github.io/#/demos/react-google-maps
+[demo-app-source]: https://github.com/tomchentw/cliffxuan.github.io/blob/master/src/Pages/Demos/ReactGoogleMaps.jsx
 
 [standard-version]: https://github.com/conventional-changelog/standard-version
 [conventional-commits-specification]: https://conventionalcommits.org/

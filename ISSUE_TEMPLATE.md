@@ -2,7 +2,7 @@
 
 **Before doing this, did you**:
 
-1. Read the [documentation](https://tomchentw.github.io/react-google-maps)
+1. Read the [documentation](https://cliffxuan.github.io/react-google-maps)
 2. Read the [source code](https://github.com/tomchentw/react-google-maps)
 
 

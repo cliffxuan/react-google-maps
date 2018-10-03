@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/tomchentw/react-google-maps/issues"
   },
-  "homepage": "https://tomchentw.github.io/react-google-maps/",
+  "homepage": "https://cliffxuan.github.io/react-google-maps/",
   "main": "lib/index.js",
   "files": ["types/index.d.ts", "lib/", "src/", "CHANGELOG.md"],
   "keywords": [
